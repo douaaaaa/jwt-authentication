@@ -19,7 +19,7 @@ This project provides a robust authentication system using JSON Web Tokens (JWT)
 ### Installation
 1. Clone the Repository:
 ```
-  git clone <repo_url>
+  git clone https://github.com/douaaaaa/jwt-authentication
 ```
 2. Navigate to the Project Directory:
 ```
